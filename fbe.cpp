@@ -15,7 +15,7 @@ int main()
          else if (i % 5 == 0){
             cout<< "Buzz \n";
         }
-        //else cout<< i;
+       
 }
 
     return 0;
